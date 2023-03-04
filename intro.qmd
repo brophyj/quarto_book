@@ -1,0 +1,11 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+<figure>
+    <img src="images/640px-Eyjafjallajokull_Gigjokull_in_ash.jpg"
+         alt="By Boaworm - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10649477"></img>
+    <figcaption>By Boaworm - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10649477</figcaption>
+</figure>

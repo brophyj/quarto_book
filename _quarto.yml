@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "704_book"
+  author: "Jay Brophy"
+  date: "3/4/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  epub:
+    toc:
+      true
+    lang:
+      en-GB
+    date:
+      "2023-03-01"
+  pdf:
+    documentclass: scrreprt
+
+
+
